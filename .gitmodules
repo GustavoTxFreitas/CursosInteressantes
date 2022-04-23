@@ -1,0 +1,6 @@
+[submodule "FreeCodeCamp"]
+	path = FreeCodeCamp
+	url = https://github.com/GustavoTxFreitas/freecodecamp
+[submodule "Rocketseat"]
+	path = Rocketseat
+	url = https://github.com/GustavoTxFreitas/rocketseat.git
