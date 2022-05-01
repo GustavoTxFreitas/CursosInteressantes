@@ -4,3 +4,6 @@
 [submodule "Rocketseat"]
 	path = Rocketseat
 	url = https://github.com/GustavoTxFreitas/rocketseat.git
+[submodule "FreeCodeCamp/Angular/api__video_games"]
+	path = FreeCodeCamp/Angular/api__video_games
+	url = https://github.com/GustavoTxFreitas/ng-video-game-db.git
