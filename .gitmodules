@@ -7,3 +7,15 @@
 [submodule "FreeCodeCamp/Angular/api__video_games"]
 	path = FreeCodeCamp/Angular/api__video_games
 	url = https://github.com/GustavoTxFreitas/ng-video-game-db.git
+[submodule "Rocketseat/NLW/node__heat_2021"]
+	path = Rocketseat/NLW/node__heat_2021
+	url = https://github.com/GustavoTxFreitas/nlw-heat-node.git
+[submodule "Rocketseat/NLW/react__heat_2021"]
+	path = Rocketseat/NLW/react__heat_2021
+	url = https://github.com/GustavoTxFreitas/nlw-heat-react.git
+[submodule "Rocketseat/NLW/rnative__heat_2021"]
+	path = Rocketseat/NLW/rnative__heat_2021
+	url = https://github.com/GustavoTxFreitas/nlw-heat-rnative.git
+[submodule "Rocketseat/NLW/elixir__heat_2021"]
+	path = Rocketseat/NLW/elixir__heat_2021
+	url = https://github.com/GustavoTxFreitas/nlw-heat-elixir.git
