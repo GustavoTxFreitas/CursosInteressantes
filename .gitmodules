@@ -22,3 +22,6 @@
 [submodule "Rocketseat/NLW/react__impulse_2022"]
 	path = Rocketseat/NLW/react__return_2022
 	url = https://github.com/GustavoTxFreitas/nlw-impulse-react.git
+[submodule "Rocketseat/NLW/node__return_2022"]
+	path = Rocketseat/NLW/node__return_2022
+	url = https://github.com/GustavoTxFreitas/nlw-return-node.git
