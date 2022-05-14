@@ -25,3 +25,6 @@
 [submodule "Rocketseat/NLW/node__return_2022"]
 	path = Rocketseat/NLW/node__return_2022
 	url = https://github.com/GustavoTxFreitas/nlw-return-node.git
+[submodule "Rocketseat/NLW/rnative__return_2022"]
+	path = Rocketseat/NLW/rnative__return_2022
+	url = https://github.com/GustavoTxFreitas/nlw-return-rnative.git
